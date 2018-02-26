@@ -1,4 +1,4 @@
-# wechat-applets-sublime-plug
+# wechat-applets-sublime-plug微信小程序敏捷开发sublime插件
 ----
 ###后续有时间延续上一作者持续进行更新
 
