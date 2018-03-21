@@ -1,0 +1,7 @@
+app/storage/debugbar/*
+app/storage/logs/*
+app/storage/views/*
+.DS_Store
+.tags*
+*.lnk
+.idea
