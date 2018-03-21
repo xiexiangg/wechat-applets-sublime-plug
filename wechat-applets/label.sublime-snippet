@@ -5,7 +5,7 @@ label ${1:class="${2}"} for="${3}">
 </label>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>wlabel</tabTrigger>
+	<tabTrigger>xlabel</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 </snippet>

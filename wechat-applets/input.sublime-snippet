@@ -4,7 +4,7 @@ input placeholder="${1}" focus="${2:false}" value="${3}" type="${4:text}" passwo
 ${17}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>winput</tabTrigger>
+	<tabTrigger>xinput</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 </snippet>

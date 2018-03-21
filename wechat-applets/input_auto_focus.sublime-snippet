@@ -3,6 +3,6 @@
 input placeholder="${1}" auto-focus/>
 ${2}
 ]]></content>
-	<tabTrigger>winputautofocus</tabTrigger>
+	<tabTrigger>xinputautofocus</tabTrigger>
 	<!-- <scope>text.html</scope> -->
 </snippet>

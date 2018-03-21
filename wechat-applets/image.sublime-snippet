@@ -3,7 +3,7 @@
 image style="${1}" mode="${2}" src="${3}" ${4:binderror="${5}"} ${6:bindload="${7}"}></image>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>wimage</tabTrigger>
+	<tabTrigger>ximage</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 </snippet>

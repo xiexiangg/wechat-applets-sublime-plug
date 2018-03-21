@@ -4,6 +4,6 @@ scroll-view scroll-y="${1:true}" bindscrolltoupper="${2}" bindscrolltolower="${3
 	${6}
 </scroll-view>	
 ]]></content>
-	<tabTrigger>wscrollview</tabTrigger>
+	<tabTrigger>xscrollview</tabTrigger>
 	<!-- <scope>text.html</scope> -->
 </snippet>

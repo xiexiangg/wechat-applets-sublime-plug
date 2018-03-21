@@ -8,6 +8,6 @@ swiper indicator-dots="${1}" autoplay="${2:true}" interval="${3:1500}" duration=
 	</block>
 </swiper>		
 ]]></content>
-	<tabTrigger>wswiper</tabTrigger>
+	<tabTrigger>xswiper</tabTrigger>
 	<!-- <scope>text.html</scope> -->
 </snippet>

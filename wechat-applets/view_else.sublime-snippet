@@ -5,7 +5,7 @@ view wx:else="{{ ${1} }}">
 </view>	
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>wviewelse</tabTrigger>
+	<tabTrigger>xviewelse</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 </snippet>

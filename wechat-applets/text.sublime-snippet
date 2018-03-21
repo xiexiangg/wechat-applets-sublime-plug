@@ -3,7 +3,7 @@
 text> {{ ${1} }} </text>		
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>wtext</tabTrigger>
+	<tabTrigger>xtext</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 </snippet>

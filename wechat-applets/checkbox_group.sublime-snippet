@@ -6,6 +6,6 @@ checkbox-group ${1:bindchange="${2}"}>
     </label>
 </checkbox-group>
 ]]></content>
-	<tabTrigger>wcheckboxgroup</tabTrigger>
+	<tabTrigger>xcheckboxgroup</tabTrigger>
 	<!-- <scope>text.html</scope> -->
 </snippet>

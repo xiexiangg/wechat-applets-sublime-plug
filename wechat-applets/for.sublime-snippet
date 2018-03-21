@@ -3,7 +3,7 @@
 view wx:for-items="{{ ${1} }}"> {{ ${2} }} </view>		
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>wfor</tabTrigger>
+	<tabTrigger>xfor</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 </snippet>

@@ -14,7 +14,7 @@
 
 ### snippet 列表
 
-为了防止和其他 snippet 冲突,本 snippet 中的所有WXML 标签触发命令都以'w'开头,所有 API>    相关命令都以'api'开头.
+为了防止和其他 snippet 冲突,本 snippet 中的所有WXML 标签触发命令都以'x'开头,所有 API>    相关命令都以'api'开头.
 
 #### WXML snippet
 
